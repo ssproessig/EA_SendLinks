@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEALink", "OpenEALink\OpenEALink.csproj", "{03AE5CF1-4A18-4429-9606-C75E12C50188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Debug|x86.ActiveCfg = Debug|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Debug|x86.Build.0 = Debug|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Release|Any CPU.ActiveCfg = Release|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Release|Mixed Platforms.Build.0 = Release|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Release|x86.ActiveCfg = Release|x86
+		{03AE5CF1-4A18-4429-9606-C75E12C50188}.Release|x86.Build.0 = Release|x86
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{68D53FB1-7FB4-4EC9-8CC5-B372C739D12E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
